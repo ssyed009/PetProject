@@ -46,7 +46,7 @@ testdata folder within pets contains the external files that are used as payload
 
 Reports generated after running the tests are stored in target folder. This project implements both Junit and Cucumber reports.
 
-Execute the Test framework:
+**Execute the Test framework:**
 
 Note: Maven is used as a bulld tool to run the tests , if Maven_Home is not setup, please add maven to path in system environment variables.
 
