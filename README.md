@@ -10,10 +10,10 @@ Maven
 Git
 Visual Studio Code (IDE)
 VS Code Plugins
-- Cucumber (Gherkin) Full support
-- Karate Runner
-- Java Extension pack
-- Maven for Java
+  - Cucumber (Gherkin) Full support
+  - Karate Runner
+  - Java Extension pack
+  - Maven for Java
 
 Project Setup: 
 Create a local repository folder (for example: C:\petproject)
