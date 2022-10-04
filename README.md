@@ -1,7 +1,7 @@
 # PetProject
 
 
-**Summary:** The project is implemented using open source api automation framework called Karate. Karate tests can be written in BDD syntax , easy to understand for non-programmers too.
+**Summary:** The pet project is implemented using open source api automation framework called Karate. Karate tests can be written in BDD syntax , easy to understand for non-programmers too.
 
 **Pre-requisites:**
 To implement this framework, install following tools to get started:
