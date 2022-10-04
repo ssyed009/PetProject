@@ -4,11 +4,12 @@
 **Summary:** The pet project is implemented using open source api automation framework called Karate. Karate tests can be written in BDD syntax , easy to understand for non-programmers too.
 
 **Pre-requisites:**
-To implement this framework, install following tools to get started:
+To implement this framework, followin tools are required:
+
 - Java (at least java 8)
 - Maven
-- Git
-- Visual Studio Code (IDE)
+- Git (Git Extensions or GitHub Desktop)
+- Visual Studio Code (recommended)
 - VS Code Plugins
   - Cucumber (Gherkin) Full support
   - Karate Runner
